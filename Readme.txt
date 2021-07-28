@@ -1,0 +1,1 @@
+Run the proteus file import the arduino code for each arduino and run.
